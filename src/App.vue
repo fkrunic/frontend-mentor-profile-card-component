@@ -3,8 +3,35 @@
 
 <template>
   <!-- Wallpaper accents -->
-  <img class="absolute right-[10rem] bottom-[30rem] w-[50rem] h-[50rem]" src="./assets/img/bg-pattern-top.svg">    
-  <img class="absolute left-[10rem] top-[30rem] w-[50rem] h-[50rem]" src="./assets/img/bg-pattern-bottom.svg">
+  <img class="
+    absolute 
+    
+    right-[10rem] 
+    bottom-[30rem] 
+    
+    w-[50rem] 
+    h-[50rem]
+
+    desktop:right-[40rem]
+    desktop:w-[100rem]
+    desktop:h-[100rem]
+    " 
+    src="./assets/img/bg-pattern-top.svg">    
+
+  <img class="
+    absolute 
+    
+    left-[10rem] 
+    top-[30rem] 
+    
+    w-[50rem] 
+    h-[50rem]
+
+    desktop:left-[45rem]
+    desktop:w-[100rem]
+    desktop:h-[100rem]    
+    " 
+    src="./assets/img/bg-pattern-bottom.svg">
 
 <div class="flex items-center justify-center min-h-screen overflow-hidden">
 
