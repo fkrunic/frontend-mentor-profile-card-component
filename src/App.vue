@@ -16,7 +16,7 @@
       top-[5.5rem]      
       " src="./assets/img/image-victor.jpg" alt="victor"
       >
-    <div class="flex flex-row gap-4 items-center justify-center mt-20">
+    <div class="flex flex-row gap-4 items-center justify-center mt-[4.5rem]">
       <p class="font-bold text-lg text-very-dark-blue">Victor Crest</p>
       <p class="text-lg text-dark-gray">26</p>
     </div>
