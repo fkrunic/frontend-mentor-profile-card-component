@@ -19,7 +19,7 @@
 export default {
   data() {
     return {
-      bodyClass: ''
+      bodyClass: 'font-kumbh-sans'
     };
   },
   mounted() {
