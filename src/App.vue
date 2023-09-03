@@ -2,9 +2,25 @@
 </script>
 
 <template>
-<div class="flex items-center justify-center min-h-screen">
+  <!-- Wallpaper accents -->
+  <img class="absolute right-[10rem] bottom-[30rem] w-[50rem] h-[50rem]" src="./assets/img/bg-pattern-top.svg">    
+  <img class="absolute left-[10rem] top-[30rem] w-[50rem] h-[50rem]" src="./assets/img/bg-pattern-bottom.svg">
+
+<div class="flex items-center justify-center min-h-screen overflow-hidden">
+
   <!-- Card -->
-  <div class="relative flex flex-col items-center rounded-2xl shadow-xl">
+  <div class="
+    relative 
+    
+    flex 
+    flex-col 
+    items-center 
+    
+    rounded-2xl 
+    
+    bg-white
+    shadow-xl
+    ">
     <img class="rounded-t-2xl" src="./assets/img/bg-pattern-card.svg" alt="background">
     <img class="
       absolute 
@@ -64,7 +80,7 @@
 export default {
   data() {
     return {
-      bodyClass: 'font-kumbh-sans'
+      bodyClass: 'font-kumbh-sans bg-dark-cyan overflow-hidden'
     };
   },
   mounted() {

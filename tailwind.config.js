@@ -19,8 +19,9 @@ export default {
       'dark-gray': 'hsl(0, 0%, 59%)',
       white: 'hsl(0, 0%, 100%)'
     },
-    backgroundColor: {
-      
+    backgroundImage: {
+      'wallpaper-top': "url('./assets/img/bg-pattern-top.svg')",
+      'wallpaper-bottom': "url('./assets/img/bg-pattern-bottom.svg')"
     },
     extend: {},
   },
