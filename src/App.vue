@@ -38,16 +38,16 @@
       border-dark-gray/25
       ">
       <div class="flex flex-col items-center">
-        <p class="text-xl text-very-dark-blue font-bold">80K</p>
-        <p class="text-xs text-dark-gray tracking-widest">Followers</p>
+        <p class="text-lg text-very-dark-blue font-bold">80K</p>
+        <p class="text-[10px] text-dark-gray tracking-widest">Followers</p>
       </div>
       <div class="flex flex-col items-center">
-        <p class="text-xl text-very-dark-blue font-bold">803K</p>
-        <p class="text-xs text-dark-gray tracking-widest">Likes</p>
+        <p class="text-lg text-very-dark-blue font-bold">803K</p>
+        <p class="text-[10px] text-dark-gray tracking-widest">Likes</p>
       </div>
       <div class="flex flex-col items-center">
-        <p class="text-xl text-very-dark-blue font-bold">1.4K</p>
-        <p class="text-xs text-dark-gray tracking-widest">Photos</p>
+        <p class="text-lg text-very-dark-blue font-bold">1.4K</p>
+        <p class="text-[10px] text-dark-gray tracking-widest">Photos</p>
       </div>      
     </div>
   </div>
